@@ -67,3 +67,17 @@
     font-size: 24px;
     font-weight: bold;
 }
+
+.card {
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    background: rgb(64, 109, 244);
+    border-radius: 20px;
+    color: #E5E7EB
+}
+
+.card .container {
+    justify-content: space-between;
+    padding: 66px 0px;
+}
