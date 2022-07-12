@@ -1,6 +1,6 @@
 # Landing Page
+[View the page](https://nobbmaestro.github.io/odin-landing-page/)
 
-[View the page]()
 ## About the Project
 This is the 2nd project of the [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) course, where the assignment was to develop a landing page by the given requirements. 
 
