@@ -9,7 +9,8 @@ body {
     font-family: Roboto, sans-serif;
 }
 
-.header .container, .footer .container, .content .card{
+.header .container, 
+.footer .container {
     max-width: 1440px;
     padding: 16px 200px;
 }
